@@ -1,11 +1,12 @@
 # RPG - Dragon Repeller
 
 Welcome to **Dragon Repeller**, a simple browser-based RPG game where you must defeat monsters and ultimately slay the dragon to save the town!
+And it also comes with an secret game!!!
 
 ## Game Features:
 - **Fight Monsters**: Battle different creatures like slimes, beasts, and the final boss— the Dragon!
 - **Upgrade Weapons**: Buy better weapons at the store using gold earned in battles.
-- **Explore Locations**: Visit the town, explore a cave full of monsters, or try your luck at a secret game.
+- **Explore Locations**: Visit the town, explore a cave full of monsters, or try your luck at a secret game
 - **Manage Stats**: Keep track of your XP, health, and gold as you progress through the game.
 
 ## How to Play:
